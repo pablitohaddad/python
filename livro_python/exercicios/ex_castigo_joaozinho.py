@@ -1,0 +1,1 @@
+print("Não vou mais atrapalhar a aula\n""Não vou mais atrapalhar a aula\n""Não vou mais atrapalhar a aula\n""Não vou mais atrapalhar a aula\n""Não vou mais atrapalhar a aula\n""Não vou mais atrapalhar a aula\n""Não vou mais atrapalhar a aula\n""Não vou mais atrapalhar a aula\n""Não vou mais atrapalhar a aula\n""Não vou mais atrapalhar a aula\n")

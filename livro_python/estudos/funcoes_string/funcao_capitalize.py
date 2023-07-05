@@ -1,0 +1,1 @@
+print(str.capitalize("aeiou")) # somente a primeira letra fica maiuscula e as demais, minúsculas.

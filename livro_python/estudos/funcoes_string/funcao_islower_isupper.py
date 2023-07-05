@@ -1,0 +1,5 @@
+print("Chamando a partir da propria classe: ")
+print("str.islower (\'aeiou\') %s" % str.islower ("aeiou"))
+print("str.isupper (\'AEIOU\') %s" % str.isupper("AEIOU"))
+print("str.isupper (\'AEIOU\') %s" % str.isupper("aeiou"))
+print("str.islower (\'aeiou\') %s" % str.islower ("AEIOu"))

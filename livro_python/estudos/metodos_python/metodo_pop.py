@@ -1,0 +1,12 @@
+lista_usuarios = []
+lista_usuarios.append("Francisco")
+lista_usuarios.append("fulana")
+lista_usuarios.append("cicrana")
+lista_usuarios.append("beltrana")
+print("Conteúdo da lista inicial: ")
+print(lista_usuarios)
+print("Removendo o último usuário:")
+lista_usuarios.pop()
+print(lista_usuarios)
+print(lista_usuarios.pop(0),"foi remivido(a) da lista:")
+print(lista_usuarios)
