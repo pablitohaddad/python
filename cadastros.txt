@@ -1,0 +1,7 @@
+Nome: 
+Idade: 18
+Curso: dd
+
+Nome: duno
+Idade: 1282
+Curso: sad

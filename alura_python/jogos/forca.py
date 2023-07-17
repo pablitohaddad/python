@@ -88,7 +88,11 @@ def imprime_mensagem_ganhador():
     print("        '-------'       ")
 
 def imprime_mensagem_perdedor(palavra_secreta):
+<<<<<<< HEAD
     print("Poxa, você foi enforcado!")
+=======
+    print("Puxa, você foi enforcado!")
+>>>>>>> f3c3075 (Alocando o repositório na minha máquina nova)
     print(f"A palavra secreta era {palavra_secreta}")
     print("    _______________         ")
     print("   /               \       ")
